@@ -1,4 +1,4 @@
-package jenkinsexercise;
+package com.jenkins.exercise.world;
 
 public class JenkinsWorld {
 

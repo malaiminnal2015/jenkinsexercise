@@ -1,6 +1,6 @@
-package jenkinsexercise;
+package com.jenkins.exercise.world;
 
-public class JenkinsWorld {
+public class JenkinsWorld2 {
 
 	public static void main(String[] args) {
 	
